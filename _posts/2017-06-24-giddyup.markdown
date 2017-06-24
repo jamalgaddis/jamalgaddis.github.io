@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "this is a test post"
+title: "this is a test post"
 date: 2017-06-24
-description: ""getting started""
+description: "getting started"
 category: does not matter
 ---
+
 Hot balls of fire illuminating what was cold
