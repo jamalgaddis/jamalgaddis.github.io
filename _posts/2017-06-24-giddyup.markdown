@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this is a test post"
+title: "this was a test post, now it is a beginning"
 date: 2017-06-24
 description: "getting started"
 category: does not matter
