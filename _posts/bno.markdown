@@ -2,6 +2,7 @@
 layout: post
 title:  "orange and blue"
 date:   2020-03-14
+description: "getting started"
 categories: jekyll update
 ---
 they're the happening colors now --
