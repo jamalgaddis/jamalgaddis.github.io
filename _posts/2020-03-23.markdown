@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "2020-January, note"
-description: "getting started"
 date:   
+description: "getting started"
 categories: jmoney update
 ---
 how did we used to be friends?
