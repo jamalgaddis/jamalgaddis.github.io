@@ -5,7 +5,7 @@ description: "getting started"
 categories: jmoney update
 ---
 how did we used to be friends?
-like how
+like _how_
 did it used to be?
 
 what would we say?
