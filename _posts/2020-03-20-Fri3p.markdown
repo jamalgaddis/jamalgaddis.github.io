@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "2020-03-19"
-date:   2020-03-19
+title:  "2020-03-23"
+date:   2020-03-23
 description: "getting started"
 categories: jekyll update
 ---
 essa se chama: que banho eu tomo pra tá bem agora depois de você?
--já que o vento confirmou
+
+já que o vento confirmou
   
-<   >posso me abrir
+posso me abrir
   
   até o mundo
   
@@ -66,7 +67,7 @@ essa se chama: que banho eu tomo pra tá bem agora depois de você?
   
   que vem depois de agora.
   
-   if you're living it
+  <indent> if you're living it
    then it's serious.
      or at least, it can
    be, right?
