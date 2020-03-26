@@ -7,6 +7,7 @@ categories: jekyll update
 ---
 essa se chama: que banho eu tomo pra tá bem agora depois de você?
 
+
 já que o vento confirmou\\
 posso me abrir até o mundo\\
 já como flor\\
@@ -36,6 +37,8 @@ o supremo nesse mundo, mas\\
 ele é um caminho que já\\
 se apresenta, até o\\
 que vem depois de agora.
+
+
 
    if you're living it\\
    then it's serious.\\
