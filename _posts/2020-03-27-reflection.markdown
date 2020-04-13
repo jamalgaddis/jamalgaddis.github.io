@@ -6,8 +6,6 @@ description: "getting started"
 categories: reflection
 ---
 people live in their own balance\\
-(if only retrospectively)
-
 when free.
 
 
@@ -17,22 +15,22 @@ bondage, but i'm guessing the words share blood.
 
 my blood and my brain tell me, even calmly,\\
 that it is all to be treated the same, as\\
-constriction upon freedom --
+constriction upon freedom
 
-_indirect, too...contorted down a random form\\
-_that at best is boring and ugly and at worst is\\
-_hidden from my view.
+(often indirect, too...contorted down a random form\\
+that at best is boring and ugly and at worst is\\
+hidden from my view.)
 
 anything that sees the thought through will admit\\
 (at least for a moment) that everything finds its\\
-own balance. what good then does the imposition\\
+own balance. what _good_ then does the imposition\\
 of balance serve?\\
-i'm responsible for maintaining it, but did i invest\\
-myself in the history of the particular boundaries i\\
-uphold?
+and if i'm responsible for maintaining something imposed\\
+on me, i should begin to wonder whether i'm personally\\
+invested in its history.
 
 where does it come from. that is the demand i\\
-have for anything mandated upon me.\\
+have for anything that asks for my cooperation.\\
 if the answer is boring, or too complicated to\\
 explain, or if it is hidden from me or cannot be\\
-produced, then we have reason to evaluate.
+produced, then we have reason to re-evaluate.
