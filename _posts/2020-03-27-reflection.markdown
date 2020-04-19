@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020-02-27, reflection"
+title:  "2020-03-27, reflection"
 date:   2020-03-27
 description: "getting started"
 categories: reflection
