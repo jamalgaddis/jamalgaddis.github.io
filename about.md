@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-moving forward as consequence but can't negate that feeling.
+moving forward as consequence, but can't negate that feeling.
