@@ -19,7 +19,7 @@ constriction upon freedom
 
 (often indirect, too...contorted down a random form\\
 that at best is boring and ugly and at worst is\\
-hidden from my view.)
+hidden from view.)
 
 anything that sees the thought through will admit\\
 (at least for a moment) that everything finds its\\
