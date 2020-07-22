@@ -19,5 +19,5 @@ In what world would your everyday
 
 
 Skin in the ordinary sun not bear\\
-Witness and give birth to my newest\\
-Year?
+Witness and give birth to my\\
+Newest year?
