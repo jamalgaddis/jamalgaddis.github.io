@@ -18,6 +18,6 @@ Because you put your hands on me.\\
 In what world would your Everyday
 
 
-Skin in the ordinary sun _not_ Bear\\
+Skin in the ordinary sun not Bear\\
 Witness and give birth to my\\
 newest year?
