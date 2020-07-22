@@ -6,16 +6,16 @@ description: "been started"
 category: dedication
 ---
 the power you gave me is here\\
-all the time. it is inevitable that\\
+all the time. it is inevitable that
 
 
 you feed me, that i spill into\\
 you in grotesque ways, that\\
-my rupture gets onto your hands,\\
+my rupture gets onto your hands,
 
 
 because you put your hands on me.\\
-in what world would your everyday\\
+in what world would your everyday
 
 
 skin in the ordinary sun not bear\\
