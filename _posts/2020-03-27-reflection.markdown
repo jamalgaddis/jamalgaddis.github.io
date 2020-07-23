@@ -23,7 +23,7 @@ hidden from view.)
 
 anything that sees the thought through will admit\\
 (at least for a moment) that everything finds its\\
-own balance. what _good_ then does the imposition\\
+own balance. what purpose then does the imposition\\
 of balance serve?\\
 and if i'm responsible for maintaining something imposed\\
 on me, i should begin to wonder whether i'm personally\\
