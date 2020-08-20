@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020-08-20, divinatio0"
+title:  "2020-08-20, divinatio"
 date:   2020-08-20
 description: "woopties"
 categories: divination
