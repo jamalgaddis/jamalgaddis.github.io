@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2020-08-20, divinatio"
+title:  "2020-08-20, divination"
 date:   2020-08-20
 description: "woopties"
 categories: divination
 ---
-A little weed,\\
-and some self confidence.
+A little weed after a long break, and some self confidence,\\
+nossa.
 
 This music entering my ears,\\
 and a rhythm flowing out of my hands and feet.
