@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "2020-09-26, aside"
+title:  "2020-09-26, note"
 date:   2020-09-26
 description: "woopties"
-categories: aside
+categories: note
 ---
 many little things, my hands with ten fingers are not enough but they are my parameters.
 
