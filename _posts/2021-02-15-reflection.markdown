@@ -17,7 +17,7 @@ with an open mind and a\\
 body open to new movements, based\\
 on new stimuli--a presence attentive.\\
 
-______________\\
+____________\\
 
 there is a danger in memory that should be acknowledged,\\
 and a tendency to remember that should be acknowledged.
