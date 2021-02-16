@@ -15,7 +15,7 @@ i can feel that i\\
 can accept that grace\\
 with an open mind and a\\
 body open to new movements, based\\
-on new stimuli--a presence attentive.\\
+on new stimuli--a presence attentive.
 
 ____________\\
 
