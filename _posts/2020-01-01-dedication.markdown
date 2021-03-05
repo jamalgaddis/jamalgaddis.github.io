@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021-03-04, double dedication"
+title:  "old, double dedication"
 date:   2021-03-04
 description: "getting started"
 categories: jekyll update
