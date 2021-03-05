@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2021-03-05, diary"
-date:   2021-03-05
+title:  "2021-02-24, diary"
+date:   2021-02-24
 description: "i dont know"
 categories: up there
 ---
